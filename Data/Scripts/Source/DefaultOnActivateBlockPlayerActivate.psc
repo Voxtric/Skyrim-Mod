@@ -1,1 +1,0 @@
-Scriptname DefaultOnActivateBlockPlayerActivate extends ObjectReference  

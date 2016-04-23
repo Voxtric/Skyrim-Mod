@@ -1,1 +1,0 @@
-Scriptname Marker extends Quest  

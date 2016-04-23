@@ -1,1 +1,0 @@
-Scriptname Armor extends Form Hidden

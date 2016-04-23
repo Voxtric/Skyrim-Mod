@@ -1,1 +1,0 @@
-Scriptname BlackDungeon extends ReferenceAlias  

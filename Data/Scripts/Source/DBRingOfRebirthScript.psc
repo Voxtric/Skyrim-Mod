@@ -1,1 +1,0 @@
-Scriptname DBRingOfRebirthScript extends ObjectReference  

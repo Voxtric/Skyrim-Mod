@@ -1,1 +1,0 @@
-scriptName Favor020QuestScript extends FavorQuestScript conditional

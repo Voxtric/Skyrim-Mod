@@ -1,1 +1,0 @@
-Scriptname SolitudeOpeningMovePlayer extends ReferenceAlias  

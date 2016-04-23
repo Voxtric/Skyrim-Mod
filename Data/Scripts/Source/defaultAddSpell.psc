@@ -1,1 +1,0 @@
-Scriptname defaultAddSpell extends Perk  

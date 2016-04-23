@@ -1,1 +1,0 @@
-Scriptname QF__0101C98F Extends Quest Hidden

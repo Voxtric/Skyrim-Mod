@@ -1,1 +1,0 @@
-Scriptname NewScript extends ObjectReference  
