@@ -1,0 +1,34 @@
+AUXENTIUS BITHNUS:
+Are you the messenger? Do you have my package?	<Surprise 70>
+I can't say. It's important. Very important. Life or death even.	<Fear 50>
+Ah. I think my package has been stolen! Why isn't it here?	<Anger 50>
+Yes! I think that buffoon Falion may know something. Ask him. Now.	<Happy 80>
+If you know someone that can, send them to me as soon as possible. I need that package!	<Disgust 80>
+No. Now, away with you!	<Anger 50>
+You do? Give me it! Now!	<Happy 100>
+Thank you oh thank you! You shall be rewarded greatly! I can finally leave my mark upon Skyrim.	<Happy 80>
+What? Don't make me laugh, you're pathetic! I'll just take it from you!	<Disgust 100>
+You're back! Don't just stand there then, what is the news?	<Surprise 50>
+What? Then get back out there and find out where my package is!	<Anger 80>
+Yes! Thank you! Now, could you go and maybe get it for me? I can pay, and well at that!	<Happy 90>
+Unacceptable! Get out of my sight and find me someone that will then!	<Anger 100>
+Excellent! Hurry and get that package for me then. Take this and get back with the package as soon as possible!	<Happy 100>
+
+JARL OF MORTHAL:
+What is it? We don't usually seize items.	<Puzzled 60>
+Yes, an artifact of this strength should definitely remain out of the hands of mere common men. For your services, you have my thanks.	<Fear 60>
+
+FALION:
+No, I'm afraid not. Packages often go missing in this part of Skyrim. Gorm usually has his nose in business where it doesn't belong, try asking him.	<Disgust 60>
+
+GORM:
+Afraid not. Try Jonna, she's the innkeeper so she hears a lot. She's Falion's sister too, I'm surprised he didn't send you straight to her.	<Sad 40>
+
+JONNA:
+Gorm did? I don't think so, sorry. I know you've been on a goose chase but try Jorgen, he may know.	<Puzzled 40>
+
+JORGEN:
+Ah yes, Auxentius the mad milk drinker. No, I don't know anything. Why would I?	<Surprise 60>
+Okay, so maybe I heard that a courier went missing along the route from Mor Khazgur to Solitude as no one has heard from him since he set off.	<Surprise 50>
+That there is. I heard that a courier went missing along the route from Mor Khazgur to Solitude. You should try checking along that route.	<Happy 80>
+Look, between you and me, I wouldn't trust your new friend. If I know him, that package isn't good news, so I'd consider not letting him get it.	<Fear 50>
